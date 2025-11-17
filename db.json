@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Introduction à Vue.js 3",
+      "body": "Vue.js 3 apporte une nouvelle Composition API, offrant plus de flexibilité et de puissance...",
+      "tags": [
+        "vue",
+        "javascript",
+        "frontend"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Pourquoi utiliser Vite ?",
+      "body": "Vite est un outil de build ultra rapide grâce à l’utilisation d’ESBuild et d’un serveur de développement efficace..",
+      "tags": [
+        "vite",
+        "javascript",
+        "tooling"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Les bases du Routing avec Vue Router",
+      "body": "Vue Router permet la navigation entre différentes vues de votre application, en utilisant des routes dynamiques...",
+      "tags": [
+        "vue",
+        "router",
+        "frontend"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Comprendre les Tags dans un Blog",
+      "body": "Les tags permettent d'organiser le contenu et d'améliorer l'expérience utilisateur en facilitant la navigation...",
+      "tags": [
+        "blog",
+        "tags",
+        "content"
+      ]
+    },
+    {
+      "id": "ba31",
+      "title": "Maîtriser la Composition API de Vue 3",
+      "body": "La Composition API de Vue 3 permet de mieux organiser le code et de réutiliser des fonctionnalités entre composants. Elle offre plus de flexibilité par rapport à l’Options API et simplifie la maintenance des gros projets...",
+      "tags": [
+        "vue",
+        "javascript",
+        "composition-api"
+      ]
+    }
+  ]
+}
